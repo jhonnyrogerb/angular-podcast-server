@@ -1,0 +1,6 @@
+apps:
+  - script   : ./server.js
+    name     : 'podcast-api'
+    instances: 2
+    exec_mode: cluster
+    watch  : true
