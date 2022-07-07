@@ -34,7 +34,7 @@
     "lodash": "^4.17.5",
     "lusca": "^1.5.2",
     "memory-cache": "latest",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
     "rss-parser": "^3.1.2",
