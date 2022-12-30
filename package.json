@@ -58,7 +58,7 @@
     "@types/supertest": "^2.0.4",
     "chai": "^4.2.0",
     "concurrently": "^3.5.1",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "nodemon": "^1.18.10",
     "now": "^14.1.0",
     "supertest": "^3.0.0",
